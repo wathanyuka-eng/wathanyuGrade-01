@@ -51,8 +51,6 @@ class Program
             {
                 Console.WriteLine("Invalid score");
             }
-
-            Console.WriteLine(); // เว้นบรรทัด
         }
     }
 }
