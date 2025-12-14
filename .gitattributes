@@ -48,9 +48,7 @@ class Program
                 Console.WriteLine("Grade F");
             }
             else
-            {
-                Console.WriteLine("Invalid score");
-            }
+
         }
     }
 }
